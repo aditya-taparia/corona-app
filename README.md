@@ -5,9 +5,7 @@ This app provides information related to the covid-19 situation in India i.e. co
 ## Screenshots of the app:
 
 - ### Home Page:
-<img src="https://github.com/aditya-taparia/corona-app/blob/main/screenshots/Recovered%20Cases%20Display.jpeg" width="300" />
-<img src="https://github.com/aditya-taparia/corona-app/blob/main/screenshots/Confirmed%20Cases%20Display.jpeg" width="300" />
-<img src="https://github.com/aditya-taparia/corona-app/blob/main/screenshots/Death%20Cases%20Display.jpeg" width="300" />
+<img src="https://github.com/aditya-taparia/corona-app/blob/main/screenshots/Recovered%20Cases%20Display.jpeg" width="300" /> <img src="https://github.com/aditya-taparia/corona-app/blob/main/screenshots/Confirmed%20Cases%20Display.jpeg" width="300" /> <img src="https://github.com/aditya-taparia/corona-app/blob/main/screenshots/Death%20Cases%20Display.jpeg" width="300" />
 - ### Statistic Page:
 - ### Slots Page:
 - ### News Page:
